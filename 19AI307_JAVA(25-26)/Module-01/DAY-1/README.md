@@ -36,7 +36,7 @@ RegisterNumber: 212224020052
 ## Sourcecode.java:
 
 ```
-public class Sourcecode {
+public class Main {
     public static void main(String[] args) {
 
         // Declaration of variables using different data types
@@ -79,31 +79,8 @@ public class Sourcecode {
 
 ## OUTPUT:
 
-```
-Integer value: 20
-Float value: 5.5
-Double value: 10.25
-Character value: A
-Boolean value: true
+<img width="1862" height="810" alt="image" src="https://github.com/user-attachments/assets/2e23a6a6-f1c0-48f1-b044-84bd9a219cee" />
 
-Arithmetic Operators:
-Addition: 30
-Subtraction: 10
-Multiplication: 200
-Division: 2
-Modulus: 0
-
-Relational Operators:
-a > b : true
-a < b : false
-a == b : false
-
-Logical Operators:
-(a > b) && status : true
-(a < b) || status : true
-!(status) : false
-
-```
 
 ## RESULT:
 
