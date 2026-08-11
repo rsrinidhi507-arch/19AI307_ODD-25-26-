@@ -30,7 +30,7 @@ RegisterNumber: 212224020052
 ```
 import java.util.Scanner;
 
-public class Sourcecode {
+public class Main{
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -55,21 +55,8 @@ public class Sourcecode {
 ```
 
 ## OUTPUT:
-```
-Enter 5 elements:
-10
-20
-30
-40
-50
+<img width="1851" height="546" alt="image" src="https://github.com/user-attachments/assets/66cf9102-c329-48cb-8594-4931a11b95e0" />
 
-Array elements are:
-10
-20
-30
-40
-50
-```
 
 ## RESULT:
 Thus, the Java program was successfully written and executed to demonstrate the creation, storage, and retrieval of elements using a one-dimensional array.
