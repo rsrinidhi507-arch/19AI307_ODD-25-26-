@@ -30,7 +30,7 @@ RegisterNumber: 212224020052
 ```
 import java.util.Scanner;
 
-public class Sourcecode {
+public class Main{
     public static void main(String[] args) {
 
         for (int i = 1; i <= 10; i++) {
@@ -41,18 +41,8 @@ public class Sourcecode {
 ```
 
 ## OUTPUT:
-```
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-```
+<img width="1912" height="286" alt="image" src="https://github.com/user-attachments/assets/322d37eb-08a7-4150-bbb4-d872b1e6b910" />
+
 
 ## RESULT:
 Thus, the Java program was successfully written and executed to demonstrate the use of a looping statement using the for loop.
