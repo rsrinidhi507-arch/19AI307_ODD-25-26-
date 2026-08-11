@@ -29,7 +29,7 @@ RegisterNumber: 212224020052
 ```
 import java.util.Scanner;
 
-public class Sourcecode {
+public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -53,10 +53,7 @@ public class Sourcecode {
 ```
 
 ## OUTPUT:
-```
-Enter a number: 25
-Positive number
-```
+<img width="1812" height="502" alt="image" src="https://github.com/user-attachments/assets/eafd561f-3d4a-46ac-9769-b1a65e3fe2a4" />
 
 ## RESULT:
 Thus, the Java program was successfully written and executed to demonstrate the use of conditional statements using if-else.
