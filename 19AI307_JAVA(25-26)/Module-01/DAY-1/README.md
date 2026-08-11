@@ -28,8 +28,8 @@ To write and execute a Java program that demonstrates the use of data types, var
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Srinidhi R
+RegisterNumber: 212224020052
 */
 ```
 
