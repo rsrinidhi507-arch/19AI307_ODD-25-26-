@@ -29,7 +29,7 @@ RegisterNumber: 212224020052
 ```
 import java.util.Scanner;
 
-public class Sourcecode {
+public class Main{
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -53,19 +53,7 @@ public class Sourcecode {
 ```
 
 ## OUTPUT:
-```
-Enter a string: Java
-
-String: Java
-Length of string: 4
-Uppercase: JAVA
-Lowercase: java
-
-Math Functions:
-Square root of 25: 5.0
-2 raised to power 3: 8.0
-Maximum of 10 and 20: 20
-```
+<img width="1912" height="516" alt="image" src="https://github.com/user-attachments/assets/4bce0641-ad89-46fc-8764-5a3d7cf5ea50" />
 
 
 ## RESULT:
